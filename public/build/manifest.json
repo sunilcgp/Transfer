@@ -1,0 +1,77 @@
+{
+  "_fonts-C9MNnjVw.css": {
+    "file": "assets/fonts-C9MNnjVw.css",
+    "src": "_fonts-C9MNnjVw.css"
+  },
+  "_instrument-sans-400-normal-D1W7dsQl.woff": {
+    "file": "assets/instrument-sans-400-normal-D1W7dsQl.woff",
+    "src": "_instrument-sans-400-normal-D1W7dsQl.woff"
+  },
+  "_instrument-sans-400-normal-DRC__1Mx.woff2": {
+    "file": "assets/instrument-sans-400-normal-DRC__1Mx.woff2",
+    "src": "_instrument-sans-400-normal-DRC__1Mx.woff2"
+  },
+  "_instrument-sans-500-normal-Dk9ku72i.woff2": {
+    "file": "assets/instrument-sans-500-normal-Dk9ku72i.woff2",
+    "src": "_instrument-sans-500-normal-Dk9ku72i.woff2"
+  },
+  "_instrument-sans-500-normal-Z6ESRlEs.woff": {
+    "file": "assets/instrument-sans-500-normal-Z6ESRlEs.woff",
+    "src": "_instrument-sans-500-normal-Z6ESRlEs.woff"
+  },
+  "_instrument-sans-600-normal-B7fBEWYG.woff2": {
+    "file": "assets/instrument-sans-600-normal-B7fBEWYG.woff2",
+    "src": "_instrument-sans-600-normal-B7fBEWYG.woff2"
+  },
+  "_instrument-sans-600-normal-B9e8oLYv.woff": {
+    "file": "assets/instrument-sans-600-normal-B9e8oLYv.woff",
+    "src": "_instrument-sans-600-normal-B9e8oLYv.woff"
+  },
+  "_sweetalert2-DmHed3W8.css": {
+    "file": "assets/sweetalert2-DmHed3W8.css",
+    "src": "_sweetalert2-DmHed3W8.css"
+  },
+  "_sweetalert2.min-BGxLiPpr.js": {
+    "file": "assets/sweetalert2.min-BGxLiPpr.js",
+    "name": "sweetalert2.min",
+    "css": [
+      "assets/sweetalert2-DmHed3W8.css"
+    ]
+  },
+  "resources/css/app.css": {
+    "file": "assets/app-D1HsQSw-.css",
+    "name": "app",
+    "names": [
+      "app.css"
+    ],
+    "src": "resources/css/app.css",
+    "isEntry": true
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-1Q3IzG48.js",
+    "name": "app",
+    "src": "resources/js/app.js",
+    "isEntry": true,
+    "imports": [
+      "_sweetalert2.min-BGxLiPpr.js"
+    ]
+  },
+  "resources/js/reports.js": {
+    "file": "assets/reports-zJ2CQ9wS.js",
+    "name": "reports",
+    "src": "resources/js/reports.js",
+    "isEntry": true,
+    "imports": [
+      "_sweetalert2.min-BGxLiPpr.js"
+    ],
+    "css": [
+      "assets/reports-Cevg4qi-.css"
+    ]
+  },
+  "resources/js/transfer-show.js": {
+    "file": "assets/transfer-show-DiysA6ew.js",
+    "name": "transfer-show",
+    "src": "resources/js/transfer-show.js",
+    "isEntry": true
+  }
+}
